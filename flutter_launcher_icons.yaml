@@ -1,0 +1,14 @@
+# THIS FILE IS NOT IN USE
+#//////////////////////////
+
+# flutter_icons:
+#   android: true
+#   ios: false
+#   image_path: "assets/icon/icon.png"
+#   adaptive_icon_background: '#00000000'
+
+# DEPLOYMENT RESOURCES
+# appicon.co - Generate icons
+# // https://docs.flutter.dev/deployment/android
+# https://pub.dev/packages/flutter_launcher_icons
+# https://docs.flutter.dev/deployment/android#adding-a-launcher-icon
