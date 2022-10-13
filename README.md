@@ -1,16 +1,75 @@
-# password_manager
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+</p>
 
-A new Flutter project.
+<h3 align="center">Secret - Free password manager</h3>
 
-## Getting Started
+<div align="center">
 
-This project is a starting point for a Flutter application.
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📝 Table of Contents
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [About](#about)
+- [Getting Started](#getting_started)
+- [Deployment](#deployment)
+- [Usage](#usage)
+- [Built Using](#built_using)
+- [TODO](../TODO.md)
+- [Contributing](../CONTRIBUTING.md)
+- [Authors](#authors)
+- [Acknowledgments](#acknowledgement)
+
+![Secret](/assets/feature.png "Secret")
+
+## 🧐 About <a name = "about"></a>
+
+This is a free and open source password manager which runs offline.
+> It uses local storange and no data is uploaded to the web. This means when app is uninstalled all saved content will be lost.
+
+## 🏁 Getting Started <a name = "getting_started"></a>
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+latest flutter version is required.
+```
+flutter upgrade
+```
+
+### Installing
+
+A step by step series of examples that tell you how to get a development env running.
+
+```
+cd lib
+```
+
+install depedencies
+
+```
+
+flutter pub get
+```
+run the app
+
+```
+flutter run
+```
+
+
+## ⛏️ Built Using <a name = "built_using"></a>
+
+- [Hive](https://docs.hivedb.dev/) - Database
+- [Flutter](https://flutter.dev/) - Framework
+
+## ✍️ Authors <a name = "authors"></a>
+
+- [@tjpin](https://github.com/tjpin) - Idea & Initial work
+
